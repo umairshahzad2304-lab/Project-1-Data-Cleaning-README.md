@@ -45,9 +45,6 @@ The objective was to clean and prepare a raw dataset by identifying missing valu
 | Calculation Errors | 0 |
 
 ## Tools Used
-
-- Python
-- Pandas
 - Microsoft Excel
 - GitHub
 
